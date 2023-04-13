@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Tracer](www.tracerrr.xyz)
 
-- 🌱 I’m currently learning **Rails, React**
+- 🌱 I’m currently learning **Rails, Javascript**
 
 - 📫 How to reach me **bertramjulien@gmail.com**
 
