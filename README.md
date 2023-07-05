@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Julien</h1>
 <h3 align="center">A passionate junior full-stack developer from France</h3>
 
-- I am looking for a job! <br><br>
-![JohnTravoltaWellGIF](https://user-images.githubusercontent.com/105406129/207405225-3deee789-7db3-4437-a3b5-f315b03462f3.gif)
+- 🔭 I’m currently working for [IronAndEarth](https://www.ironandearth.org/) on the [Climate Career Portal](https://www.climatecareerportal.com/)
 
-
-- 🔭 I’m currently working on [Tracer](www.tracerrr.xyz)
-
-- 🌱 I’m currently learning **Rails, Javascript**
+- 🌱 I’m currently learning **Rails, React, Javascript**
 
 - 📫 How to reach me **bertramjulien@gmail.com**
 
